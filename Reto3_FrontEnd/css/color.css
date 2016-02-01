@@ -1,13 +1,13 @@
-.classcolorred {
-	background: red;
+.classcolor1 {
+	background: #0089EC;
 	margin-bottom: 0px;
 	border-radius: 15px;
 	margin: 1px;
     padding: 1px;
 }
 
-.classcolorgreen {
-	background: green;
+.classcolor2 {
+	background: #7BC8FF;
 	margin-bottom: 0px;
 	border-radius: 15px;
 	margin: 1px;
@@ -15,8 +15,8 @@
     height: auto;
 }
 
-.classcolorblue {
-	background: blue;
+.classcolor3{
+	background: #B1DCFB;
 	margin-bottom: 0px;
 	border-radius: 15px;
 	margin: 1px;
@@ -120,7 +120,7 @@
 	clear: both;
 	width: 95%;
 	height: 10%;
-	background: yellow;
+	background: #35BBAF;
 	border-radius: 15px;
 	margin: 2px;
     padding: 2px;
