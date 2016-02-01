@@ -1,0 +1,144 @@
+.classcolor1 {
+	background: #0089EC;
+	margin-bottom: 0px;
+	border-radius: 15px;
+	margin: 1px;
+    padding: 1px;
+}
+
+.classcolor2 {
+	background: #7BC8FF;
+	margin-bottom: 0px;
+	border-radius: 15px;
+	margin: 1px;
+    padding: 1px;
+    height: auto;
+}
+
+.classcolor3{
+	background: #B1DCFB;
+	margin-bottom: 0px;
+	border-radius: 15px;
+	margin: 1px;
+    padding: 1px;
+    height: auto;
+}
+.boton {
+	background: yellow;
+	border-radius: 15px;
+	margin: 1px;
+    padding: 1px;
+}
+
+.correctionbottom {
+	margin-bottom: 0px;
+}
+
+.sizeheight {
+	height: auto;
+}
+
+#conetenedorArticulos {
+	float: left;
+	width: 75%;
+	height: auto;
+	background: #D9EFBB;
+	border-radius: 15px;
+	margin: 5px;
+}
+
+#pie {
+	clear: both;
+	background: rgba(204, 204, 204, 0);
+	text-align: center;
+	padding: 20px;
+	font: bold 14px verdana, sans-serif;
+	background: pink;
+	border-radius: 15px;
+	margin: 5px;
+}
+
+.articulos {
+
+	width: 90%;
+	height: auto;
+	background: #BAEFED;
+	padding: 20px;
+	margin: 20px;
+	border-radius: 15px;
+}
+
+.ArticuloHeader {
+	width: 95%;
+	background: #EEC9F3;
+	border-radius: 15px;
+	margin: 2px;
+	padding: 2px;
+}
+
+.TituloArticulo {
+	width: 95%;
+	height: 30%;
+	background: #F5E0B9;
+	border-radius: 15px;
+	margin: 2px;
+	padding: 2px;
+}
+
+.TiempoArticulo {
+	width: 95%;
+	height: 30%;
+	background: #B8F5DE;
+	border-radius: 15px;
+	margin: 2px;
+	padding: 2px;
+}
+
+.ArticuloFooter {
+	width: 95%;
+	height: 50px;
+	background: #ECCD56;
+	border-radius: 15px;
+	margin: 2px;
+    padding: 2px;
+
+
+}
+
+.ArticuloArticulo {
+	width: 90%;
+	height: auto;
+	background: #AEEF9C;
+	border-radius: 15px;
+	margin: 2px;
+	padding: 2px;
+	float: right;
+	word-wrap: break-word
+}
+
+.boton {
+	clear: both;
+	width: 95%;
+	height: 10%;
+	background: #35BBAF;
+	border-radius: 15px;
+	margin: 2px;
+    padding: 2px;
+}
+
+.TiempoArticuloArticulo {
+	width: 95%;
+	height: 20%;
+	background: #F6B5F6;
+	border-radius: 15px;
+	margin: 2px;
+	padding: 5px;
+}
+
+.ContenidoArticulo {
+	width: 95%;
+	height: 15%;
+	border-radius: 15px;
+	margin: 2px;
+    padding: 2px;
+}
