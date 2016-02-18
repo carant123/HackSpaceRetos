@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginPokemon</string>
+    <string name="textologin">Login</string>
+    <string name="textosubmit">Submit</string>
+</resources>
